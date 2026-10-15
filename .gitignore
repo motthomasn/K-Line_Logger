@@ -286,3 +286,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+################################################################################
+## CAD ##
+#
+# ignore CATIA files
+*.CATPart
+*.CATProduct
