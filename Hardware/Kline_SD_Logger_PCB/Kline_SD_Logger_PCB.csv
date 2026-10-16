@@ -15,5 +15,3 @@ U1,1,ESP32-C3_SUPERMINI,,,,
 U2,1,TSR-1-2450,"Switching Regulator, 5VDC Output, 1A",TSR 1-2450,,Traco Power
 U3,1,L9637,K-Line I/O Controller Interface IC ISO 9141 Interface,E-L9637D013TR,3130050,STMicroelectronics
 U4,1,DS3231M,Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16,,,
-,1,,"LED Pipe D3mm, L17.78mm",515-1313-0700F ,4258729,Dialight
-,4,,#4x13mm ISO7049 Self Tapping Screw,,,
