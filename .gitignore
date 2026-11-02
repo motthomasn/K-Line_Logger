@@ -45,6 +45,9 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 
+# Zipped Gerber files
+*.zip
+
 
 ################################################################################
 ## Windows / Google Drive ##
